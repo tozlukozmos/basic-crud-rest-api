@@ -1,5 +1,4 @@
 # Basic CRUD Rest API Documentation 
-# ![GitHub](https://img.shields.io/github/license/tozlukozmos/basic-crud-rest-api) ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/tozlukozmos/basic-crud-rest-api?filename=package.json) ![GitHub last commit](https://img.shields.io/github/last-commit/tozlukozmos/basic-crud-rest-api)
 I have been searching best folder structure for a backend project, and then I have understood that it depends on the project requirements. When I consider what I want to achieve with a Node.js Rest API project, I have chosen this folder structure to manage all of these necessary actions. This is absolutely not obligatory, you can choose or create best one for your project. I have just created this CRUD Rest API template in order to take an action quicker when I should start a new backend project.
 
 <br/>
